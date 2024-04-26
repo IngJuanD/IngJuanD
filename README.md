@@ -68,24 +68,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/IngJuanD/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=IngJuanD&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/IngJuanD">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IngJuanD&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  
 </table>
 <br />
 
@@ -329,28 +312,23 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/ing-juanc/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:ing.jdcruzarrieta@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ing.jdcruzarrieta@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/im_juandc" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
 <!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+
 
 
 <!--Footer--> 

@@ -3,8 +3,9 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://drive.google.com/file/d/1gTxoDuINo5iUn825G-DWUOS-t3dFqmfI/view?usp=sharing">
 </div>
+
 
 <!--Header Name-->
 ɪ'ᴍ David! 
@@ -23,7 +24,6 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=IngJuanD&label=Profile%20views&color=blue&style=for-the-badge&logo=star" alt="IngJuanD" style="padding-right:20px;" />
-  
 </p>
 
 ---

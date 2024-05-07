@@ -3,8 +3,8 @@
 
 <!--Night Owl image-->
 <div>
+  <a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=1gTxoDuINo5iUn825G-DWUOS-t3dFqmfI" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
-  ![Example Image](https://drive.google.com/uc?id=1A1cNS98neP17g3jkpcbDGlrRik1QNNbm)
 </div>
 
 

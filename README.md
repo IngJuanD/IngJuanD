@@ -3,7 +3,8 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://drive.google.com/file/d/1gTxoDuINo5iUn825G-DWUOS-t3dFqmfI/view?usp=sharing">
+  
+  ![Example Image](https://drive.google.com/uc?id=1A1cNS98neP17g3jkpcbDGlrRik1QNNbm)
 </div>
 
 
